@@ -4,8 +4,8 @@ Project 4 is the replication of Single Cell RNA-Seq Analysis of Pancreatic Cells
 
 # Contributors
 
-Data Curator: Cody Webb
-Programmer: Yuehting Wang
+Data Curator: Cody Webb  
+Programmer: Yuehting Wang  
 Analyst: Chris Lin
 
 # Repository Contents
