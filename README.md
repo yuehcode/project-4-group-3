@@ -1,6 +1,6 @@
 # Project Description
 
-A brief description of what this repository is for and what it contains
+Project 4 is the replication of Single Cell RNA-Seq Analysis of Pancreatic Cells.
 
 # Contributors
 
